@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">African Quest</string>
+    <string name="tappa_titolo">Tappa numero</string>
+    <!--<string name="tappa_buco">Dove posso osservare da vicino esclusivamente la cupola di san pietro senza sanpietrino.</string>
+    <string name="tappa_augusto">Augusto usava il suo obelisco per non venir mai tardi sotto il disco.</string>
+    <string name="tappa_tiberina">Sotto il ponte del più antico ospedale del mondo nell\'isola senza mare con rischio di affondo.</string>
+    <string name="tappa_castel_angelo">Un castello ma invece delle principesse ci stava chi il papa offendeva con disinteresse.</string>
+    <string name="tappa_gianicolo">senti la botta a mezzodi, non è marijuana.. ma un colpo si.</string>
+    <string name="tappa_giolitti">Alla fine del tuo viaggio stai per arrivare, con un gelato ti potrai rinfrescare, di un vecchio politico il cognome devi cercare, ma fai presto se il gelato non vuoi pagare</string>
+    <string name="codice_buco">LLFUh</string>
+    <string name="codice_augusto">CmgMz</string>
+    <string name="codice_tiberina">PLbLu</string>
+    <string name="codice_castel_angelo">hRtrY</string>
+    <string name="codice_gianicolo">X9GjJ</string>-->
+
+
+    <string name="tappa_statua_babbuino">Chiamano questa statua con nome di scimmia perché poco aitante, anche se si dice che sia parlante.</string>
+    <string name="tappa_ospedale_bambole">Gli ospedali a Roma son tanti ma questo è davvero speciale perché può riportare le bambole allo splendore originale.</string>
+    <string name="tappa_piazza_minerva">Trova la piazza dove un\'elefantino si dimena, pare stia provando a scrollarsi il gran fardello dalla schiena.</string>
+    <string name="tappa_piazza_pietra">Scova il tempio che in un palazzo è incastonato, è dedicato ad un imperatore che dopo la morte fu divinizzato.</string>
+    <string name="tappa_auditorium">Questo Parco è un po\' diverso, nella musica e non nel verde ti troverai immerso.</string>
+    <string name="codice_statua_babbuino">LLFUhp3</string>
+    <string name="codice_bambole">Cm5gMz</string>
+    <string name="codice_minerva">PLb4Lu</string>
+    <string name="codice_pietra">6hRtrY</string>
+    <string name="ricomincia">Ricomincia</string>
+    <string name="daje">Daje! Ce l\'avete quasi fatta!</string>
+    <string name="contatta">Per qualsiasi problema contatta Paolo\n+39 338 631 6812</string>
+    <string name="tappa_titolo_finale">Tappa Finale</string>
+
+</resources>
